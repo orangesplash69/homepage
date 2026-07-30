@@ -21,8 +21,8 @@ Live demo of everything I build — searchable, filterable, and designed for qui
 
 | Project       | Description                                      | Tags                  |
 |---------------|--------------------------------------------------|-----------------------|
-| **METAR Lens**    | Live aviation weather & runway conditions        | Aviation, Weather     |
-| **Phasmbase**     | Phasmophobia ghost tracker with detailed stats   | Phasmophobia, Gaming  |
+| **Example 1** | An example project.                              | Example, Demo         |
+| **Example 2** | Another example project.                         | Example, Demo         |
 
 ## Tech Stack
 
@@ -77,3 +77,4 @@ That’s it — the grid, tags, and filters update automatically.
 ## License
 
 Feel free to copy but leave credits in the code
+yes, its vibe coded
