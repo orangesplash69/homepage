@@ -76,5 +76,4 @@ That’s it — the grid, tags, and filters update automatically.
 
 ## License
 
-Feel free to copy but leave credits in the code
-yes, its vibe coded
+Feel free to copy but leave credits in the code and yes, its vibe coded
