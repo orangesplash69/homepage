@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="/orange.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Project Index</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="bg-glow"></div>
+    <div class="page">
+      <header class="hero">
+        <div class="hero-text">
+          <p class="eyebrow">Personal Projects</p>
+          <h1>Project Index</h1>
+          <p class="subhead">A fast, dark-mode catalog of everything I build.</p>
+        </div>
+        <div class="hero-controls">
+          <div class="search">
+            <input id="searchInput" type="search" placeholder="Search by name or tag..." />
+          </div>
+          <div class="filters">
+            <div class="filter-row" id="tagFilterRow"></div>
+            <div class="active-filter" id="activeFilter" aria-live="polite"></div>
+          </div>
+        </div>
+      </header>
+
+      <main>
+        <section class="grid" id="projectGrid" aria-live="polite"></section>
+        <p class="empty-state" id="emptyState">No projects match this filter.</p>
+      </main>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
