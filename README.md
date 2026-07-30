@@ -26,7 +26,7 @@ Live demo of everything I build — searchable, filterable, and designed for qui
 
 ## Example Wbsite
 
-A "example" Website (my website) is live at:
+A "example" Website ([my website](https://www.orangesplash.de)) is live at:
 ---
     https://orangesplash.de/
 ---
