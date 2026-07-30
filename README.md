@@ -44,8 +44,8 @@ Live demo of everything I build — searchable, filterable, and designed for qui
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/orangesplash69/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/orangesplash69/homepage.git
+   cd homepage
    ```
 
 2. Open `index.html` in your browser  
@@ -60,7 +60,7 @@ Open `script.js` and edit the `projects` array:
 ```js
 const projects = [
   { name: "Project Name", description: "Short description of what it does.", url: "https://your-project-url.com", github: "https://github.com/username/repo", tags: ["Tag1", "Tag2"] },
-  // you can leave GitHub and Tags empty to hide the buttons
+  // You can leave GitHub and Tags empty to hide the buttons
 ];
 ```
 
@@ -76,5 +76,4 @@ That’s it — the grid, tags, and filters update automatically.
 
 ## License
 
-MIT — feel free to use and modify.
-```
+Feel free to copy but leave credits in the code
