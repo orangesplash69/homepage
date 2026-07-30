@@ -24,6 +24,13 @@ Live demo of everything I build — searchable, filterable, and designed for qui
 | **Example 1** | An example project.                              | Example, Demo         |
 | **Example 2** | Another example project.                         | Example, Demo         |
 
+## Example Wbsite
+
+A "example" Website (my website) is live at:
+---
+    https://orangesplash.de/
+---
+
 ## Tech Stack
 
 - Vanilla HTML, CSS & JavaScript (no frameworks)
